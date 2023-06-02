@@ -61,9 +61,3 @@ I'm Ahmed, a junior fullstack developer.<br>I'm currently digging deeper into Sv
 ---
 
 [![](https://visitcount.itsvg.in/api?id=bigcbull&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<style>
-table, th, td, blockquote, thead, tr {
-   border: none!important;
-}
-</style>
