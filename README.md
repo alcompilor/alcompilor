@@ -1,8 +1,8 @@
 <p align="center">
-  <picture><img src = "https://i.imgur.com/hiR3ltk.png" width = 200px></picture>
+  <img src = "https://i.imgur.com/hiR3ltk.png" width = 200px>
 </p>
 
-# Hey there <picture><img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px></picture>
+# Hey there <img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px>
 
 I'm Ahmed, a junior fullstack developer.<br>I'm currently digging deeper into Svelte & L1 EVM Blockchains.<br><br>
 🤝 Looking to collab w ppl hyped up about blockchain startups<br>🌱 Currently learning Svelte, MongoDB & Solidity<br>💬 Ask me about JavaScript, Python & EVM Blockchains
