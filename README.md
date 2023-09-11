@@ -11,7 +11,7 @@ I'm Ahmed, a junior fullstack developer.<br>I'm currently digging deeper into Sv
 
 ## 📲 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abbasii)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bigcbull/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/969795101092085821)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/bigcbull)
 [![Portfolio](https://img.shields.io/badge/Portfolio-181B38.svg?logo=render&logoColor=#FF7139)](https://ahmed.dev)
