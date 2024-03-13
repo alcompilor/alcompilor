@@ -1,13 +1,7 @@
 # Hey there <img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px>
 
-I'm Ahmed, a junior software developer.<br>I'm currently digging deeper into Next.js & Blockchain development.<br><br>
+I'm Ahmed, a software developer.<br>I'm currently digging deeper into Next.js & Blockchain development.<br><br>
 🤝 Looking to collab w ppl hyped up about tech startups<br>🌱 Currently learning Next.js, and React
-
-## 📲 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcompilor/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/969795101092085821)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-181B38.svg?logo=render&logoColor=#FF7139)](https://ahmed.dev)
 
 ## 💻 Skillset
 
@@ -57,7 +51,9 @@ I'm Ahmed, a junior software developer.<br>I'm currently digging deeper into Nex
 ### Currently learning / Will be learning
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -65,5 +61,4 @@ I'm Ahmed, a junior software developer.<br>I'm currently digging deeper into Nex
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-824FFF?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20CLOUD-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
