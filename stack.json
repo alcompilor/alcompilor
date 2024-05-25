@@ -1,0 +1,176 @@
+[
+    {
+        "title": "Frontend",
+        "stack": [
+            {
+                "name": "HTML5",
+                "img": "https://img.icons8.com/color/200/html-5--v1.png"
+            },
+            {
+                "name": "CSS3",
+                "img": "https://img.icons8.com/color/200/css3.png"
+            },
+            {
+                "name": "JavaScript",
+                "img": "https://img.icons8.com/color/200/javascript.png"
+            },
+            {
+                "name": "SASS",
+                "img": "https://img.icons8.com/color/200/sass.png"
+            },
+            {
+                "name": "React",
+                "img": "https://img.icons8.com/color/200/react-native.png"
+            },
+            {
+                "name": "Vite",
+                "img": "https://img.icons8.com/color/200/vite.png"
+            }
+        ]
+    },
+    {
+        "title": "Backend",
+        "stack": [
+            {
+                "name": "Node",
+                "img": "https://img.icons8.com/color/200/nodejs.png"
+            },
+            {
+                "name": "TypeScript",
+                "img": "https://img.icons8.com/color/200/typescript.png"
+            },
+            {
+                "name": "Python",
+                "img": "https://img.icons8.com/color/200/python.png"
+            },
+            {
+                "name": "Java",
+                "img": "https://img.icons8.com/color/200/java-coffee-cup-logo--v1.png"
+            },
+            {
+                "name": "GraphQL",
+                "img": "https://img.icons8.com/color/200/graphql.png"
+            },
+            {
+                "name": "Express",
+                "img": "https://img.icons8.com/color/200/express-js.png"
+            },
+            {
+                "name": "Flask",
+                "img": "https://img.icons8.com/color/200/flask.png"
+            },
+            {
+                "name": "JWT",
+                "img": "https://img.icons8.com/color/200/java-web-token.png"
+            },
+            {
+                "name": "Express",
+                "img": "https://img.icons8.com/color/200/express-js.png"
+            }
+        ]
+    },
+    {
+        "title": "DBs",
+        "stack": [
+            {
+                "name": "MongoDB",
+                "img": "https://img.icons8.com/color/200/mongodb.png"
+            },
+            {
+                "name": "MySQL",
+                "img": "https://img.icons8.com/color/200/mysql.png"
+            },
+            {
+                "name": "MSSQL",
+                "img": "https://img.icons8.com/color/200/microsoft-sql-server.png"
+            },
+            {
+                "name": "Redis",
+                "img": "https://img.icons8.com/color/200/redis.png"
+            }
+        ]
+    },
+    {
+        "title": "Blockchain",
+        "stack": [
+            {
+                "name": "Solidity",
+                "img": "https://img.icons8.com/color/200/solidity.png"
+            }
+        ]
+    },
+    {
+        "title": "Ops",
+        "stack": [
+            {
+                "name": "Docker",
+                "img": "https://img.icons8.com/color/200/docker.png"
+            },
+            {
+                "name": "Linux",
+                "img": "https://img.icons8.com/color/200/linux.png"
+            },
+            {
+                "name": "Bash",
+                "img": "https://img.icons8.com/color/200/bash.png"
+            },
+            {
+                "name": "Nginx",
+                "img": "https://img.icons8.com/color/200/nginx.png"
+            },
+            {
+                "name": "AWS Cloud",
+                "img": "https://img.icons8.com/color/200/amazon-web-services.png"
+            },
+            {
+                "name": "Cloudflare",
+                "img": "https://img.icons8.com/color/200/cloudflare.png"
+            }
+        ]
+    },
+    {
+        "title": "Currently learning | Will be learning",
+        "stack": [
+            {
+                "name": "Nextjs",
+                "img": "https://img.icons8.com/color/200/nextjs.png"
+            },
+            {
+                "name": "Rust",
+                "img": "https://img.icons8.com/color/200/rust-programming-language.png"
+            },
+            {
+                "name": "Golang",
+                "img": "https://img.icons8.com/color/200/golang.png"
+            },
+            {
+                "name": "Kubernetes",
+                "img": "https://img.icons8.com/color/200/kubernetes.png"
+            },
+            {
+                "name": "Postgres",
+                "img": "https://img.icons8.com/color/200/postgreesql.png"
+            },
+            {
+                "name": "Deno",
+                "img": "https://img.icons8.com/color/200/deno.png"
+            },
+            {
+                "name": "C#",
+                "img": "https://img.icons8.com/color/200/c-sharp-logo-2.png"
+            },
+            {
+                "name": ".NET",
+                "img": "https://img.icons8.com/color/200/net-framework.png"
+            },
+            {
+                "name": "Kotlin",
+                "img": "https://img.icons8.com/color/200/kotlin.png"
+            },
+            {
+                "name": "Swift",
+                "img": "https://img.icons8.com/color/200/swift.png"
+            }
+        ]
+    }
+]
