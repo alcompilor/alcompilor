@@ -96,6 +96,10 @@
             {
                 "name": "Solidity",
                 "img": "https://img.icons8.com/color-glass/100/solidity.png"
+            },
+            {
+                "name": "Ethers.js",
+                "img": "https://img.icons8.com/fluency/100/ethereum.png"
             }
         ]
     },
