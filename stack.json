@@ -32,7 +32,7 @@
         "title": "Backend",
         "stack": [
             {
-                "name": "Node",
+                "name": "Node.js",
                 "img": "https://img.icons8.com/fluency/100/node-js.png"
             },
             {
@@ -53,11 +53,11 @@
             },
             {
                 "name": "Express",
-                "img": "https://img.icons8.com/100/ffffff/express-js.png"
+                "img": "https://img.icons8.com/100/17A34A/express-js.png"
             },
             {
                 "name": "Flask",
-                "img": "https://img.icons8.com/100/ffffff/flask.png"
+                "img": "https://img.icons8.com/100/17A34A/flask.png"
             },
             {
                 "name": "JWT",
@@ -136,8 +136,8 @@
         "title": "Learning",
         "stack": [
             {
-                "name": "Nextjs",
-                "img": "https://img.icons8.com/fluency-systems-filled/100/ffffff/nextjs.png"
+                "name": "Next.js",
+                "img": "https://img.icons8.com/fluency-systems-filled/100/17A34A/nextjs.png"
             },
             {
                 "name": "Rust",
