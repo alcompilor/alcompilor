@@ -4,27 +4,27 @@
         "stack": [
             {
                 "name": "HTML5",
-                "img": "https://img.icons8.com/color/200/html-5--v1.png"
+                "img": "https://img.icons8.com/color/100/html-5--v1.png"
             },
             {
                 "name": "CSS3",
-                "img": "https://img.icons8.com/color/200/css3.png"
+                "img": "https://img.icons8.com/color/100/css3.png"
             },
             {
                 "name": "JavaScript",
-                "img": "https://img.icons8.com/color/200/javascript.png"
+                "img": "https://img.icons8.com/color/100/javascript.png"
             },
             {
                 "name": "SASS",
-                "img": "https://img.icons8.com/color/200/sass.png"
+                "img": "https://img.icons8.com/color/100/sass.png"
             },
             {
                 "name": "React",
-                "img": "https://img.icons8.com/color/200/react-native.png"
+                "img": "https://img.icons8.com/color/100/react-native.png"
             },
             {
                 "name": "Vite",
-                "img": "https://img.icons8.com/color/200/vite.png"
+                "img": "https://img.icons8.com/color/100/vite.png"
             }
         ]
     },
@@ -33,35 +33,39 @@
         "stack": [
             {
                 "name": "Node",
-                "img": "https://img.icons8.com/color/200/nodejs.png"
+                "img": "https://img.icons8.com/color/100/nodejs.png"
             },
             {
                 "name": "TypeScript",
-                "img": "https://img.icons8.com/color/200/typescript.png"
+                "img": "https://img.icons8.com/color/100/typescript.png"
             },
             {
                 "name": "Python",
-                "img": "https://img.icons8.com/color/200/python.png"
+                "img": "https://img.icons8.com/color/100/python.png"
             },
             {
                 "name": "Java",
-                "img": "https://img.icons8.com/color/200/java-coffee-cup-logo--v1.png"
+                "img": "https://img.icons8.com/color/100/java-coffee-cup-logo--v1.png"
             },
             {
                 "name": "GraphQL",
-                "img": "https://img.icons8.com/color/200/graphql.png"
+                "img": "https://img.icons8.com/color/100/graphql.png"
             },
             {
                 "name": "Express",
-                "img": "https://img.icons8.com/color/200/express-js.png"
+                "img": "https://img.icons8.com/100/ffffff/express-js.png"
             },
             {
                 "name": "Flask",
-                "img": "https://img.icons8.com/color/200/flask.png"
+                "img": "https://img.icons8.com/100/ffffff/flask.png"
             },
             {
                 "name": "JWT",
-                "img": "https://img.icons8.com/color/200/java-web-token.png"
+                "img": "https://img.icons8.com/color/100/java-web-token.png"
+            },
+            {
+                "name": "JEST",
+                "img": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"
             }
         ]
     },
@@ -70,19 +74,19 @@
         "stack": [
             {
                 "name": "MongoDB",
-                "img": "https://img.icons8.com/color/200/mongodb.png"
+                "img": "https://img.icons8.com/color/100/mongo-db.png"
             },
             {
                 "name": "MySQL",
-                "img": "https://img.icons8.com/color/200/mysql.png"
+                "img": "https://img.icons8.com/external-those-icons-flat-those-icons/100/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"
             },
             {
                 "name": "MSSQL",
-                "img": "https://img.icons8.com/color/200/microsoft-sql-server.png"
+                "img": "https://img.icons8.com/color/100/microsoft-sql-server.png"
             },
             {
                 "name": "Redis",
-                "img": "https://img.icons8.com/color/200/redis.png"
+                "img": "https://img.icons8.com/color/100/redis.png"
             }
         ]
     },
@@ -91,7 +95,7 @@
         "stack": [
             {
                 "name": "Solidity",
-                "img": "https://img.icons8.com/color/200/solidity.png"
+                "img": "https://img.icons8.com/color-glass/100/solidity.png"
             }
         ]
     },
@@ -100,27 +104,27 @@
         "stack": [
             {
                 "name": "Docker",
-                "img": "https://img.icons8.com/color/200/docker.png"
+                "img": "https://img.icons8.com/color/100/docker.png"
             },
             {
                 "name": "Linux",
-                "img": "https://img.icons8.com/color/200/linux.png"
+                "img": "https://img.icons8.com/color/100/linux.png"
             },
             {
                 "name": "Bash",
-                "img": "https://img.icons8.com/color/200/bash.png"
+                "img": "https://img.icons8.com/color/100/bash.png"
             },
             {
                 "name": "Nginx",
-                "img": "https://img.icons8.com/color/200/nginx.png"
+                "img": "https://img.icons8.com/color/100/nginx.png"
             },
             {
                 "name": "AWS Cloud",
-                "img": "https://img.icons8.com/color/200/amazon-web-services.png"
+                "img": "https://img.icons8.com/nolan/100/FF9900/amazon-web-services.png"
             },
             {
                 "name": "Cloudflare",
-                "img": "https://img.icons8.com/color/200/cloudflare.png"
+                "img": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png"
             }
         ]
     },
@@ -129,43 +133,43 @@
         "stack": [
             {
                 "name": "Nextjs",
-                "img": "https://img.icons8.com/color/200/nextjs.png"
+                "img": "https://img.icons8.com/fluency-systems-filled/100/ffffff/nextjs.png"
             },
             {
                 "name": "Rust",
-                "img": "https://img.icons8.com/color/200/rust-programming-language.png"
+                "img": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/F8500E/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"
             },
             {
                 "name": "Golang",
-                "img": "https://img.icons8.com/color/200/golang.png"
+                "img": "https://img.icons8.com/color/100/golang.png"
             },
             {
                 "name": "Kubernetes",
-                "img": "https://img.icons8.com/color/200/kubernetes.png"
+                "img": "https://img.icons8.com/color/100/kubernetes.png"
             },
             {
                 "name": "Postgres",
-                "img": "https://img.icons8.com/color/200/postgreesql.png"
+                "img": "https://img.icons8.com/color/100/postgreesql.png"
             },
             {
                 "name": "Deno",
-                "img": "https://img.icons8.com/color/200/deno.png"
+                "img": "https://img.icons8.com/color/100/deno.png"
             },
             {
                 "name": "C#",
-                "img": "https://img.icons8.com/color/200/c-sharp-logo-2.png"
+                "img": "https://img.icons8.com/color/100/c-sharp-logo-2.png"
             },
             {
                 "name": ".NET",
-                "img": "https://img.icons8.com/color/200/net-framework.png"
+                "img": "https://img.icons8.com/color/100/net-framework.png"
             },
             {
                 "name": "Kotlin",
-                "img": "https://img.icons8.com/color/200/kotlin.png"
+                "img": "https://img.icons8.com/color/100/kotlin.png"
             },
             {
                 "name": "Swift",
-                "img": "https://img.icons8.com/color/200/swift.png"
+                "img": "https://img.icons8.com/color/100/swift.png"
             }
         ]
     }
