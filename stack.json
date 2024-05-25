@@ -62,10 +62,6 @@
             {
                 "name": "JWT",
                 "img": "https://img.icons8.com/color/200/java-web-token.png"
-            },
-            {
-                "name": "Express",
-                "img": "https://img.icons8.com/color/200/express-js.png"
             }
         ]
     },
@@ -129,7 +125,7 @@
         ]
     },
     {
-        "title": "Currently learning | Will be learning",
+        "title": "Learning",
         "stack": [
             {
                 "name": "Nextjs",
