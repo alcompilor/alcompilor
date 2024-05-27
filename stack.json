@@ -141,7 +141,7 @@
         ]
     },
     {
-        "title": "Project Management",
+        "title": "Issue Tracking",
         "stack": [
             {
                 "name": "Github Issues",
