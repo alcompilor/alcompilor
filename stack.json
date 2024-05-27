@@ -11,12 +11,16 @@
                 "img": "https://img.icons8.com/color/100/css3.png"
             },
             {
+                "name": "SASS",
+                "img": "https://img.icons8.com/color/100/sass.png"
+            },
+            {
                 "name": "JavaScript",
                 "img": "https://img.icons8.com/color/100/javascript.png"
             },
             {
-                "name": "SASS",
-                "img": "https://img.icons8.com/color/100/sass.png"
+                "name": "Tailwind",
+                "img": "https://img.icons8.com/color/100/tailwind_css.png"
             },
             {
                 "name": "React",
@@ -106,6 +110,10 @@
     {
         "title": "Ops",
         "stack": [
+            {
+                "name": "Git",
+                "img": "https://img.icons8.com/color/100/git.png"
+            },
             {
                 "name": "Docker",
                 "img": "https://img.icons8.com/color/100/docker.png"
