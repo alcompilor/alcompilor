@@ -141,6 +141,23 @@
         ]
     },
     {
+        "title": "Project Management",
+        "stack": [
+            {
+                "name": "Github Issues",
+                "img": "https://img.icons8.com/ios-filled/100/17A34A/github.png"
+            },
+            {
+                "name": "Trello",
+                "img": "https://img.icons8.com/color/100/trello.png"
+            },
+            {
+                "name": "Jira",
+                "img": "https://img.icons8.com/color/100/jira.png"
+            }
+        ]
+    },
+    {
         "title": "Learning",
         "stack": [
             {
