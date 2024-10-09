@@ -1,7 +1,7 @@
 # Hey there <img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px>
 
-I'm Ahmed, a software developer.<br>I'm currently digging deeper into Next.js & Blockchain development.<br><br>
-🤝 Looking to collab w ppl hyped up about tech startups<br>🌱 Currently learning Next.js, and React
+I'm Ahmed, a software developer.<br>I'm currently digging deeper into Blockchain and Data Science/ML.<br><br>
+🤝 Looking to collab with people hyped up about tech startups.<br>🌱 Currently learning Next.js, Python ML, and Android development with Kotlin.
 
 ## 💻 Skillset
 
