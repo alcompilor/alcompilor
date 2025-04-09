@@ -1,8 +1,9 @@
 # Hey there <img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px>
 
 👨‍💻 Hey, I’m Ahmed, a software developer who enjoys turning ideas into real working products.
+<br>
 
-🎯 Currently getting a taste of the exciting world of Blockchain and Machine Learning.
+🎯 Currently getting a taste of the exciting world of Blockchain and Machine Learning.<br>
 🤝 Let’s connect if you're into tech, startups, and making big ideas real.
 
 
