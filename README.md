@@ -1,6 +1,6 @@
-# Hey there <img src = "https://i.imgur.com/Q3tcnnq.gif" width = 35px>
+# Hey there 👋
 
-👨‍💻 Hey, I’m Ahmed, a software developer who enjoys turning ideas into real working products.
+👨‍💻 I’m Ahmed, a software developer who enjoys turning ideas into real working products.
 <br>
 
 🎯 Currently getting a taste of the exciting world of Blockchain and Machine Learning.<br>
@@ -20,7 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Cypress](https://img.shields.io/badge/-cypress-%23F2F2F2?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 ### Backend
 
@@ -49,7 +49,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37726.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23f6f6f6.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23F2F2F2.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%233499CC.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
