@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey 👋
 
 ⚡ I'm Ahmed. Software Engineer. I make computers do things lol.
 <br>
