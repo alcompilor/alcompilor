@@ -6,7 +6,7 @@
 🎯 Exploring cloud platforms, IaC, and applied ML/DL.<br>
 🤝 Building in tech and startups. Always open to a conversation.
 
-### My top consultants
+### My Top Consultants
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
