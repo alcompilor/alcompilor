@@ -92,17 +92,19 @@
 ### Cloud & DevOps
 
 <div>
+  <img src="https://img.icons8.com/color/144/git.png" height="56" alt="Git" title="Git" />
+  &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/amazon-web-services.png" height="55" alt="AWS" title="AWS" />
-    &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png" height="55" alt="Cloudflare" title="Cloudflare" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png" height="57" alt="Cloudflare" title="Cloudflare" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/firebase.png" height="55" alt="Firebase" title="Firebase" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/google-cloud.png" height="55" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://img.icons8.com/color/144/google-cloud.png" height="57" alt="Google Cloud" title="Google Cloud" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-color-tal-revivo.png" height="53" alt="DigitalOcean" title="DigitalOcean" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-color-tal-revivo.png" height="52" alt="DigitalOcean" title="DigitalOcean" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scaleway/4f0599" height="53" alt="Scaleway" title="Scaleway" />
+  <img src="https://cdn.simpleicons.org/scaleway/4f0599" height="52" alt="Scaleway" title="Scaleway" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/docker.png" height="55" alt="Docker" title="Docker" />
   &nbsp;&nbsp;
