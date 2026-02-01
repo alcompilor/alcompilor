@@ -20,9 +20,9 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/typescript.png" height="55" alt="TypeScript" title="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/python--v1.png" height="56" alt="Python" title="Python" />
+  <img src="https://img.icons8.com/color/144/python--v1.png" height="55" alt="Python" title="Python" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png" height="54" alt="Java" title="Java" />
+  <img src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png" height="60" alt="Java" title="Java" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/kotlin.png" height="55" alt="Kotlin" title="Kotlin" />
   &nbsp;&nbsp;
@@ -45,6 +45,8 @@
   <img src="https://cdn.simpleicons.org/cypress/51c296" height="53" alt="Cypress" title="Cypress" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vitest/09bb61" height="53" alt="Vitest" title="Vitest" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/96/bear.png" height="55" alt="Zustand" title="Zustand" />
 </div>
 
 ### Backend & APIs
