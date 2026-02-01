@@ -102,8 +102,6 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/google-cloud.png" height="57" alt="Google Cloud" title="Google Cloud" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-digital-ocean-a-cloud-infrastructure-with-data-centers-worldwide-logo-color-tal-revivo.png" height="52" alt="DigitalOcean" title="DigitalOcean" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/scaleway/4f0599" height="52" alt="Scaleway" title="Scaleway" />
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/fluency/96/docker.png" height="55" alt="Docker" title="Docker" />
@@ -115,6 +113,8 @@
   <img src="https://img.icons8.com/color/144/nginx.png" height="55" alt="Nginx" title="Nginx" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/caddy/1F88C0" height="55" alt="Caddy" title="Caddy" />
+  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/100/external-open-source-error-tracking-that-helps-developers-monitor-and-fix-crashes-in-real-time-logo-duo-tal-revivo.png" height="55" alt="Sentry" title="Sentry" />
 </div>
 
 ### AI/ML
