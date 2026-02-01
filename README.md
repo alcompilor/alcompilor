@@ -11,9 +11,9 @@
 ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
-## **💻 Stack**
+## 💻 Stack
 
-### **Languages**
+### Languages
 
 <div>
   <img src="https://img.icons8.com/color/144/javascript--v1.png" height="55" alt="JavaScript" title="JavaScript" />
@@ -29,7 +29,7 @@
   <img src="https://img.icons8.com/color/144/solidity.png" height="55" alt="Solidity" title="Solidity" />
 </div>
 
-### **Frontend**
+### Frontend
 
 <div>
   <img src="https://img.icons8.com/color/144/nextjs.png" height="55" alt="Next.js" title="Next.js" />
@@ -49,7 +49,7 @@
   <img src="https://img.icons8.com/fluency/96/bear.png" height="55" alt="Zustand" title="Zustand" />
 </div>
 
-### **Backend & APIs**
+### Backend & APIs
 
 <div>
   <img src="https://img.icons8.com/fluency/96/node-js.png" height="55" alt="Node.js" title="Node.js" />
@@ -71,7 +71,7 @@
   <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="55" alt="Web3.js" title="Web3.js" />
 </div>
 
-### **Databases & ORMs**
+### Databases & ORMs
 
 <div>
   <img src="https://img.icons8.com/color/144/postgreesql.png" height="55" alt="PostgreSQL" title="PostgreSQL" />
@@ -89,7 +89,7 @@
   <img src="https://cdn.simpleicons.org/drizzle/96cd0a" height="55" alt="Drizzle" title="Drizzle" />
 </div>
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 
 <div>
   <img src="https://img.icons8.com/color/144/git.png" height="56" alt="Git" title="Git" />
@@ -117,7 +117,7 @@
   <img src="https://cdn.simpleicons.org/caddy/1F88C0" height="55" alt="Caddy" title="Caddy" />
 </div>
 
-### **AI/ML**
+### AI/ML
 
 <div>
   <img src="https://img.icons8.com/color/144/pandas.png" height="55" alt="Pandas" title="Pandas" />
@@ -131,7 +131,7 @@
   <img src="https://img.icons8.com/fluency/96/hugging-face_app.png" height="55" alt="HuggingFace" title="HuggingFace" />
 </div>
 
-### **Curious About**
+### Curious About
 
 <div>
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png" height="55" alt="Rust" title="Rust" />
