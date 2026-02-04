@@ -140,7 +140,9 @@
   &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/spring-logo.png" height="55" alt="Spring" title="Spring" />
   &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/kubernetes.png" height="55" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="51" alt="Kubernetes" title="Kubernetes" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="48" alt="PyTorch" title="PyTorch" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/neo4j/008CC1" height="53" alt="Neo4j" title="Neo4j" />
 </div>
