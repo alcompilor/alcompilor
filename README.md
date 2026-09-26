@@ -2,7 +2,7 @@
 
 ⚡ I'm Ahmed. Software Engineer. I test on prod because that's where the bugs live.
 
-🎯 Specializing in backend systems, AI/ML, and infrastructure.
+🎯 Specializing in backend systems, AI/ML, and infrastructure.<br>
 🤝 Building in tech and startups. Always open to a conversation.
 
 ### My Top Consultants
