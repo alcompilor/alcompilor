@@ -3,6 +3,10 @@
         "title": "Frontend",
         "stack": [
             {
+                "name": "Next",
+                "img": "https://img.icons8.com/fluency-systems-filled/100/666666/nextjs.png"
+            },
+            {
                 "name": "React",
                 "img": "https://img.icons8.com/color/100/react-native.png"
             },
@@ -13,6 +17,10 @@
             {
                 "name": "JavaScript",
                 "img": "https://img.icons8.com/color/100/javascript.png"
+            },
+            {
+                "name": "Vite",
+                "img": "https://img.icons8.com/fluency/100/vite.png"
             },
             {
                 "name": "Tailwind",
@@ -29,16 +37,16 @@
             {
                 "name": "HTML5",
                 "img": "https://img.icons8.com/color/100/html-5--v1.png"
-            },
-            {
-                "name": "Vite",
-                "img": "https://img.icons8.com/fluency/100/vite.png"
             }
         ]
     },
     {
         "title": "Backend",
         "stack": [
+            {
+                "name": "Deno",
+                "img": "https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/100/external-deno-a-secure-runtime-for-javascript-and-typescript-logo-fresh-tal-revivo.png"
+            },
             {
                 "name": "Node.js",
                 "img": "https://img.icons8.com/fluency/100/node-js.png"
@@ -56,16 +64,28 @@
                 "img": "https://img.icons8.com/fluency/100/java-coffee-cup-logo.png"
             },
             {
-                "name": "Next.js",
-                "img": "https://img.icons8.com/fluency-systems-filled/100/666666/nextjs.png"
-            },
-            {
                 "name": "Express",
                 "img": "https://img.icons8.com/100/666666/express-js.png"
             },
             {
                 "name": "GraphQL",
                 "img": "https://img.icons8.com/color/100/graphql.png"
+            },
+            {
+                "name": "Zod",
+                "img": "https://img.icons8.com/ios-filled/100/43A2FE/z.png"
+            },
+            {
+                "name": "BullMQ",
+                "img": "https://img.icons8.com/pulsar-gradient/100/bull.png"
+            },
+            {
+                "name": "Prisma / Kysely",
+                "img": "https://img.icons8.com/fluency/100/prisma-orm.png"
+            },
+            {
+                "name": "Cerbos / OpenFGA",
+                "img": "https://img.icons8.com/fluency/100/key-security.png"
             },
             {
                 "name": "Flask",
@@ -77,8 +97,12 @@
         "title": "Databases",
         "stack": [
             {
-                "name": "Postgres",
+                "name": "PostgreSQL + pgvector",
                 "img": "https://img.icons8.com/color/100/postgreesql.png"
+            },
+            {
+                "name": "Redis",
+                "img": "https://img.icons8.com/color/100/redis.png"
             },
             {
                 "name": "MongoDB",
@@ -86,41 +110,36 @@
             },
             {
                 "name": "MySQL",
-                "img": "https://img.icons8.com/external-those-icons-flat-those-icons/100/external-MySQL-programming-and-development-those-icons-flat-those-icons.png"
+                "img": "https://img.icons8.com/fluency/100/mysql-logo.png"
+            }
+        ]
+    },
+    {
+        "title": "AI/ML",
+        "stack": [
+            {
+                "name": "PyTorch",
+                "img": "https://img.icons8.com/fluency/100/pytorch.png"
             },
             {
-                "name": "Redis",
-                "img": "https://img.icons8.com/color/100/redis.png"
-            }
-        ]
-    },
-    {
-        "title": "Mobile",
-        "stack": [
-            {
-                "name": "Android Jetpack",
-                "img": "https://img.icons8.com/color/100/android-studio--v3.png"
-            }
-        ]
-    },
-    {
-        "title": "AI/DS",
-        "stack": [
+                "name": "HuggingFace / TEI",
+                "img": "https://img.icons8.com/fluency/100/hugging-face_app.png"
+            },
             {
                 "name": "Pandas",
                 "img": "https://img.icons8.com/color/100/pandas.png"
             },
             {
-                "name": "Jupyter Notebook",
+                "name": "Jupyter",
                 "img": "https://img.icons8.com/fluency/100/jupyter.png"
             },
             {
-                "name": "Anaconda",
-                "img": "https://img.icons8.com/fluency/100/anaconda--v2.png"
+                "name": "Claude",
+                "img": "https://img.icons8.com/fluency/100/claude-ai.png"
             },
             {
-                "name": "OpenCV",
-                "img": "https://img.icons8.com/fluency/100/opencv.png"
+                "name": "Gemini",
+                "img": "https://img.icons8.com/fluency/100/gemini-ai.png"
             }
         ]
     },
@@ -153,14 +172,6 @@
                 "img": "https://img.icons8.com/color/100/linux.png"
             },
             {
-                "name": "Bash",
-                "img": "https://img.icons8.com/color/100/bash.png"
-            },
-            {
-                "name": "Nginx",
-                "img": "https://img.icons8.com/color/100/nginx.png"
-            },
-            {
                 "name": "AWS",
                 "img": "https://img.icons8.com/nolan/100/FF9900/amazon-web-services.png"
             },
@@ -169,29 +180,25 @@
                 "img": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/external-cloudflare-provides-content-delivery-network-services-ddos-mitigation-logo-color-tal-revivo.png"
             },
             {
-                "name": "Firebase",
-                "img": "https://img.icons8.com/color/100/firebase.png"
+                "name": "Nginx",
+                "img": "https://img.icons8.com/color/100/nginx.png"
+            },
+            {
+                "name": "Bash",
+                "img": "https://img.icons8.com/fluency/100/bash.png"
             }
         ]
     },
     {
-        "title": "Management",
+        "title": "Project Management",
         "stack": [
             {
                 "name": "Jira",
                 "img": "https://img.icons8.com/color/100/jira.png"
             },
             {
-                "name": "Trello",
-                "img": "https://img.icons8.com/color/100/trello.png"
-            },
-            {
-                "name": "Github Issues",
+                "name": "GitHub Issues",
                 "img": "https://img.icons8.com/fluency/100/github.png"
-            },
-            {
-                "name": "Clickup",
-                "img": "https://img.icons8.com/color/100/clickup.png"
             }
         ]
     },
@@ -199,24 +206,16 @@
         "title": "Exploring",
         "stack": [
             {
+                "name": "Go",
+                "img": "https://img.icons8.com/color/100/golang.png"
+            },
+            {
                 "name": "Rust",
                 "img": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/F8500E/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"
             },
             {
                 "name": "Kubernetes",
                 "img": "https://img.icons8.com/color/100/kubernetes.png"
-            },
-            {
-                "name": "C#",
-                "img": "https://img.icons8.com/color/100/c-sharp-logo-2.png"
-            },
-            {
-                "name": ".NET",
-                "img": "https://img.icons8.com/color/100/net-framework.png"
-            },
-            {
-                "name": "Swift",
-                "img": "https://img.icons8.com/color/100/swift.png"
             }
         ]
     }
