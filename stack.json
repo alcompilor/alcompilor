@@ -132,14 +132,6 @@
             {
                 "name": "Jupyter",
                 "img": "https://img.icons8.com/fluency/100/jupyter.png"
-            },
-            {
-                "name": "Claude",
-                "img": "https://img.icons8.com/fluency/100/claude-ai.png"
-            },
-            {
-                "name": "Gemini",
-                "img": "https://img.icons8.com/fluency/100/gemini-ai.png"
             }
         ]
     },
